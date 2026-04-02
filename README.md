@@ -41,5 +41,7 @@ Contact
 If you have any questions or suggestions about this Privacy Policy, you can contact:
 
 Developer: Ali Demirci
+
 Brand: Sharpian Games
+
 Email: aliidmrc@gmail.com
